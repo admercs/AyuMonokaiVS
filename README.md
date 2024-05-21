@@ -1,6 +1,6 @@
 # Ayu Monokai color theme for Visual Studio
 
-The Ayu Monokai color theme extension for Visual Studio (VS) based on the Visual Studio Code theme.
+The Ayu Monokai color theme extension for Visual Studio (VS) based on the Visual Studio Code [theme](https://vscodethemes.com/e/lakshits11.ayu-monokai/ayu-monokai).
 
 ![screenshot](./media/example.png)
 
